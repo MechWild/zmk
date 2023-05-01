@@ -30,11 +30,6 @@
             key-positions = <1 6>;
             bindings = <&bt BT_CLR>;
         };
-        combo_lock {
-            timeout-ms = <TIMEOUT>;
-            key-positions = <1 7>;
-            bindings = <&tog 2>;
-        };
         combo_reset {
             timeout-ms = <TIMEOUT>;
             key-positions = <1 3>;
